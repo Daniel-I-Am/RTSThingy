@@ -1,0 +1,1 @@
+{"version":3,"file":"app.js","sourceRoot":"","sources":["../src/Game.ts"],"names":[],"mappings":"AAAA,MAAM,IAAI;IAGN,YAAmB,MAAyB;QACxC,IAAI,CAAC,MAAM,GAAG,MAAM,CAAC;IACzB,CAAC;CACJ;AAED,MAAM,IAAI,GAAG,IAAI,IAAI,CAAoB,QAAQ,CAAC,cAAc,CAAC,QAAQ,CAAC,CAAC,CAAC"}
